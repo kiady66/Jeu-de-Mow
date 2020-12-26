@@ -8,14 +8,21 @@ Le contexte:
 
 
 Missions générales:
+
 	-Réalisation d'un serveur utilisant les protocoles udp et tcp ip
+	
 	-Réalisation d'une application Joueur
+	
 	-Création d'une IA
 
 Cadre du projet :
+
 	- 7 personnes ont fait partie du projet dont 2 personnnes ont quitté en cours de route
+	
 	- Durée : 2 mois avec les cours, soit 300h de travail par personne
+	
 	- Compréhension de la mise en situation réelle de la méthode Agile Scrum
+	
 	- Découverte de nouvelles technologies telles que les différents protocoles de communication
 	
 
