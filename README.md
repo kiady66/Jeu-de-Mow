@@ -27,10 +27,6 @@ Cadre du projet :
 	
 Je n'ai pas pu retrouver les travaux comme les maquettes de l'IHM ou les diagrammes de séquences, de classe, les Use Cases etc...
 
-Ce dossier n'est également pas la version final du projet car j'ai changé de PC et à l'époque je ne pensais pas que c'était important pour l'avenir de garder ses anciens projets.
-
-Dans cette version, l'intégration de l'interface graphique n'est pas complètement faite mais on peut jouer dans le terminal quelques fonctions manquantes.
-
 
 ![alt text](https://i.postimg.cc/bYgyfZqn/capture.png)
 
