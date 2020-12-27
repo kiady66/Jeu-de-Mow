@@ -19,10 +19,12 @@ Cadre du projet :
 
 	- 7 personnes ont fait partie du projet dont 2 personnnes ont quitté en cours de route
 	
-	- Durée : 2 mois avec les cours, soit 300h de travail par personne
+	- Durée : 2 mois avec les cours, soit 200h de travail par personne
 	
 	- Compréhension de la mise en situation réelle de la méthode Agile Scrum
 	
 	- Découverte de nouvelles technologies telles que les différents protocoles de communication
+	
+Je n'ai pas pu retrouver les travaux comme les maquettes de l'IHM ou les diagrammes de séquences, de classe, les Use Cases etc...
 	
 
