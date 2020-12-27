@@ -32,3 +32,6 @@ Ce dossier n'est également pas la version final du projet car j'ai changé de P
 Ce qu'il manque dans cette version est l'integration de l'interface graphique.
 
 Tout de même, j'ai pu récuperer une capture d'écran du jeu final :
+
+![alt text](https://github.com/[kiady66]/[Jeu_de_Mow]/blob/[master]/capture.png?raw=true)
+
