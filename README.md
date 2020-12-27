@@ -4,7 +4,7 @@ Le jeu de mow
 Jeu de carte proche du Uno ou du 8 américain, se joue avec 52 cartes traditionnelles avec au minimum 2 joueurs même s’il est plus intéressant à partir de 5-6 joueurs.
 
 Le contexte:
-	Ce projet est effectué dans le cadre du projet tutoré de deuxième année en DUT Informatique. L’objectif est de créer un jeu vidéo multijoueur, qui peut être joué sur différents supports (Smartphone, PC). La difficulté de cette mission réside dans la création d’un serveur communiquant à distance avec l’application Joueur ainsi que l’optimisation du code pour permettre à l’application d’évoluer sur le marché, autrement dit de permettre à cette solution d’être utilisable même si le nombre d’utilisateurs se multipliait au fil du temps.
+	Ce projet est effectué dans le cadre du projet tutoré de deuxième année en DUT Informatique. L’objectif est de créer un jeu vidéo multijoueur, qui peut être joué sur différents PC. La difficulté de cette mission réside dans la création d’un serveur communiquant à distance avec l’application Joueur ainsi que l’optimisation du code pour permettre à l’application d’évoluer sur le marché, autrement dit de permettre à cette solution d’être utilisable même si le nombre d’utilisateurs se multipliait au fil du temps.
 
 
 Missions générales:
@@ -29,9 +29,8 @@ Je n'ai pas pu retrouver les travaux comme les maquettes de l'IHM ou les diagram
 
 Ce dossier n'est également pas la version final du projet car j'ai changé de PC et à l'époque je ne pensais pas que c'était important pour l'avenir de garder ses anciens projets.
 
-Ce qu'il manque dans cette version est l'intégration de l'interface graphique.
+Dans cette version, l'intégration de l'interface graphique n'est pas complètement faite mais on peut jouer dans le terminal quelques fonctions manquantes.
 
-Tout de même, j'ai pu récuperer une capture d'écran du jeu final :
 
 ![alt text](https://i.postimg.cc/bYgyfZqn/capture.png)
 
