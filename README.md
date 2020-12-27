@@ -1,4 +1,4 @@
-# Jeu-de-Mow
+# Jeu_de_Mow
 Le jeu de mow
 
 Jeu de carte proche du Uno ou du 8 américain, se joue avec 52 cartes traditionnelles avec au minimum 2 joueurs même s’il est plus intéressant à partir de 5-6 joueurs.
