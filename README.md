@@ -30,4 +30,3 @@ Je n'ai pas pu retrouver les travaux comme les maquettes de l'IHM ou les diagram
 Ce dossier n'est également pas la version final du projet car j'ai changé de PC et à l'époque je ne pensais pas que c'était important pour l'avenir de garder ses anciens projets.
 
 Tout de même, j'ai pu récuperer une capture d'écran du jeu final :
-![alt text](https://postimg.cc/0r6Rp2M5)
