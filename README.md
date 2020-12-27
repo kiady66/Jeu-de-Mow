@@ -33,5 +33,5 @@ Ce qu'il manque dans cette version est l'integration de l'interface graphique.
 
 Tout de même, j'ai pu récuperer une capture d'écran du jeu final :
 
-![alt text](https://github.com/kiady66/Jeu_de_Mow/blob/Master/capture.png?raw=true)
+![alt text](https://i.postimg.cc/bYgyfZqn/capture.png)
 
